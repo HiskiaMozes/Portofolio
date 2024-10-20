@@ -1,4 +1,4 @@
-Hi, I'm Hiskia/Mozes 👋
+Hi, I'm Hiskia Mozes 👋
 ---
 **📌About** <br>
 Hi, I'm Currently a student at Bina Nusantara University, majoring in Game Application and Technology 🎮 
