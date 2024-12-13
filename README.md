@@ -14,7 +14,7 @@ I specialize in Game design and Project Planing design.
   <thead>
     <tr>
       <th width="50%" align="center"><a>Runaway</a></th> <!--tittle-->
-      <th width="50%" align="center"><a>=Beyond Numbers=</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Beyond Numbers</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
@@ -28,7 +28,7 @@ I specialize in Game design and Project Planing design.
     </tr>
     <tr>
       <td valign="text-top">Runaway is a endless running game with a flood apocalyptic theme. The core game mechanics was u can jump avoiding obstacle and collect coin at the same time to reach a new high score.</td> <!--desc-->
-      <td valign="text-top">=-----=</td> <!--desc-->
+      <td valign="text-top">Beyond Number is a Visual novel game with a puzzle u can encounter each time story progress and each time u finish all the puzzle in each stage u can get some clue and proceed to the next stage.</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="--">--</a></td> <!--link1-->
