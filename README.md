@@ -14,7 +14,7 @@ I specialize in Game design and Project Planing design.
   <thead>
     <tr>
       <th width="50%" align="center"><a>Runaway</a></th> <!--tittle-->
-      <th width="50%" align="center"><a>=----=</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>=Beyond Numbers=</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
